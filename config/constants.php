@@ -3,7 +3,7 @@
 // Star Session
 session_start();
 
-define('SITEURL','http://localhost/food-order/');
+define('SITEURL','https://obscure-beyond-30372.herokuapp.com/food-order/');
 define('LOCALHOST','us-cdbr-east-03.cleardb.com');
 define('DB_USERNAME','b1839f3c805a40');
 define('DB_PASSWORD','5007c482');
